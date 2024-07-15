@@ -9,6 +9,9 @@ def postAPI(request_json):
 
 def getAPI():
     sum = 1+2
+
+
+    
     return {'sendData':sum}
 
 def GetCustomerData():
